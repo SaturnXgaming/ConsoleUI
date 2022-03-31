@@ -1,18 +1,10 @@
 * {
-  padding: 4px;
-  max-width: 75%;
+  background-color: #131313;
   color: white;
-  background-color: #333;
   font-family: 'Red Hat Display', sans-serif;
+  padding: 10px;
+  max-width: 75%;
 }
 
-.gamemen{
-  position: absolute;
-  width: 50%;
-  height: 152px;
-  left: 147px;
-  top: 175px;
 
-  background: rgba(13, 13, 13, 0.6);
-  border-radius: 18px;
-}
+
