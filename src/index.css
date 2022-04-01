@@ -5,6 +5,7 @@
   padding-top: 15px;
   padding-bottom: 15px;
   align-items: center;
+  overflow: hidden;
 }
 
 p {
